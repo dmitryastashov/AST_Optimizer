@@ -7,7 +7,6 @@
 ---
 
 ## Структура проекта
-
 AST_Optimizer/
 ├── ast_optimizer/ # Исходный код программы
 │ ├── init.py
@@ -20,8 +19,6 @@ AST_Optimizer/
 ├── requirements.txt
 ├── LICENSE
 ├── .gitignore
-
-text
 
 ---
 
@@ -58,8 +55,6 @@ text
 product,profit_per_unit,resource1_usage,resource2_usage,min_production,max_production
 A,100,2,5,50,200
 B,150,4,3,30,150
-
-text
 
 ---
 
